@@ -1,16 +1,17 @@
 # audio_player_old
 
-A new Flutter project.
+十一假期给家中老人写的一个听戏的小应用
+> 老人用的安卓机，本人是做iOS开发的，但是对Flutter比较熟悉，短暂调研后选了Flutter来开发。
 
-## Getting Started
+### 需求
+---
+* 极简，老人家记性不太好，记不住复杂的操作，市面上的各种音频软件操作都比较复杂（对于老人来说），而且充满了各种广告，一不小心就中招
+* 不用流量，在这之前老人用常见的应用听戏，不知不觉花费了很多流量
+* 字要大，老人视力不太好
+* 避免误触，老人手有轻微抖动
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### TODO
+- [ ] 从本地选择音频播放（当前版本为求速度将音频放在了assets文件夹）
+- [ ] 优化UI（虽然老人说比另一个应用简单很多，但还是操作不太顺利）
